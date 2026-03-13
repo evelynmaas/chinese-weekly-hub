@@ -22,3 +22,4 @@ Notes and usage details for chinese-weekly-hub.
 - link the usage section
 - fix a small wording issue
 - link the usage section
+- clarify the setup steps
