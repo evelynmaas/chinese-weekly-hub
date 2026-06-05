@@ -25,3 +25,4 @@ Notes and usage details for chinese-weekly-hub.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
