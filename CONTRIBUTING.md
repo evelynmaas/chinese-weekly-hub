@@ -26,3 +26,4 @@ Notes and usage details for chinese-weekly-hub.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
